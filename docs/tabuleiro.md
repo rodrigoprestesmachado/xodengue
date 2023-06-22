@@ -16,7 +16,7 @@ nav_order: 3
 
 ## Terreno baldio
 
-![Escola](/imgs/terreno_baldio.png)
+![Escola](/imgs/terreno.png)
 
 ## Área urbana
 
