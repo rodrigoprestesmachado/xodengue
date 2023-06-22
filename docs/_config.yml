@@ -1,0 +1,8 @@
+remote_theme: pmarsceill/just-the-docs
+
+aux_links:
+  "Xô Dengue":
+    - "https://github.com/rodrigoprestesmachado/xodengue"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2023 Xô Dengue. Distributed by Apache 2.0 license."
