@@ -17,8 +17,7 @@ folhas A4 e montadas em formato retangular, com duas linhas e três colunas.
 
 As partes do tabuleiro são: escola, praça, terreno baldio, área urbana, área
 rural e poder público. Cada parte do tabuleiro tem um papel importante no jogo,
-representando diferentes áreas da cidade e suas particularidades. Seguem as
-imagens de cada parte do tabuleiro:
+representando diferentes áreas da cidade e suas particularidades.
 {: .fs-3 }
 
 Para imprimir as imagens do tabuleiro, faça um download das imagens abaixo:
