@@ -9,10 +9,12 @@ nav_order: 2
 O "Xô Dengue" é um jogo educacional colaborativo de tabuleiro cujo objetivo
 principal é ensinar sobre a importância de combater a proliferação do mosquito
 Aedes aegypti, transmissor da dengue.
+{: .fs-3 }
 
 O objetivo do jogo é promover ação colaborativa entre os jogadores, resolvendo
 problemas relacionados à proliferação da Dengue e impedindo que o mosquito
 avance pela cidade.
+{: .fs-3 }
 
 ## Componentes do jogo
 
@@ -27,6 +29,7 @@ e poder público).
 - 32 cartas-problema.
 - 12 cartas-curiosidade sobre a Dengue.
 - 4 dados de doze faces.
+  {: .fs-3 }
 
 ## Preparação do jogo
 
@@ -43,6 +46,7 @@ e poder público).
   decrescente tirada nos dados)
 - Os jogadores se movimentam pelos setores da cidade onde há problemas.
 - O mosquito se movimenta apenas pelas casas externas do tabuleiro.
+  {: .fs-3 }
 
 ## Limitações e obrigações de cada jogador
 
@@ -53,8 +57,13 @@ e poder público).
 - Atribuições exclusivas do Poder Público: resolver problemas que envolvam
   aplicação de inseticida (fumacê), atendimento médico, destinação de resíduos
   do setor, ações de poda e instalação de lixeiras na praça.
+  {: .fs-3 }
 
+---
   NOTA: As atribuições e limitações estão indicadas nas cartas-problema.
+  {: .fs-3 }
+
+---
 
 ## Iniciando uma partida
 
@@ -75,6 +84,7 @@ e poder público).
 - Sempre que um problema não for resolvido, o mosquito avança uma casa.
 - Quando o mosquito chegar em uma casa de cor cinza, uma nova carta-problema e
   uma carta-curiosidade sobre a Dengue são sorteadas.
+  {: .fs-3 }
 
 ## Término do jogo
 
@@ -82,3 +92,4 @@ O jogo termina em duas situações:
 
 - Quando todos os problemas do tabuleiro forem resolvidos.
 - Quando o mosquito completar uma volta no tabuleiro (o mosquito é o vencedor).
+  {: .fs-3 }
