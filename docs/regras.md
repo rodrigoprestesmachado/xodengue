@@ -22,17 +22,17 @@ avance pela cidade.
 e poder público).
 {: .fs-3 }
 
-- 4 peças representando os jogadores:
+- 4 pinos representando os jogadores:
 {: .fs-3 }
-  - Amarelo: criança.
+  - Amarelo: crianças.
     {: .fs-3 }
-  - Azul: morador da área urbana.
+  - Azul: moradores da área urbana.
   {: .fs-3 }
-  - Laranja: morador da área rural.
+  - Laranja: moradores da área rural.
   {: .fs-3 }
   - Vermelho: poder público.
   {: .fs-3 }
-- 1 peça representando o mosquito da Dengue.
+- 1 pino representando o mosquito.
 {: .fs-3 }
 - 32 cartas-problema.
 {: .fs-3 }
