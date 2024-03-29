@@ -4,7 +4,7 @@ title: Tabuleiro
 nav_order: 3
 ---
 
-# Tabuleiro do "Xô Dengue"
+# Tabuleiro do Xô Dengue
 
 O tabuleiro do "Xô Dengue" é composto por seis partes, cada uma representando um
 setor da cidade. O tabuleiro pode ser montado em qualquer sequência, não
@@ -19,6 +19,9 @@ As partes do tabuleiro são: escola, praça, terreno baldio, área urbana, área
 rural e poder público. Cada parte do tabuleiro tem um papel importante no jogo,
 representando diferentes áreas da cidade e suas particularidades. Seguem as
 imagens de cada parte do tabuleiro:
+{: .fs-3 }
+
+Para imprimir as imagens do tabuleiro, faça um download das imagens abaixo:
 {: .fs-3 }
 
 ## Escola

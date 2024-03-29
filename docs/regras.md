@@ -120,10 +120,8 @@ e poder público).
 - Os jogadores podem se movimentar em qualquer direção, inclusive na diagonal,
   entre os setores do tabuleiro.
 {: .fs-3 }
-
 - Sempre que um problema não for resolvido, o mosquito avança uma casa.
 {: .fs-3 }
-
 - Quando o mosquito chegar em uma casa de cor cinza, uma nova carta-problema e
   uma carta-curiosidade sobre a Dengue são sorteadas.
 {: .fs-3 }
@@ -135,6 +133,5 @@ O jogo termina em duas situações:
 
 - Quando todos os problemas do tabuleiro forem resolvidos.
 {: .fs-3 }
-
 - Quando o mosquito completar uma volta no tabuleiro (o mosquito é o vencedor).
 {: .fs-3 }
