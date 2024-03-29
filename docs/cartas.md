@@ -4,7 +4,7 @@ title: Cartas
 nav_order: 4
 ---
 
-# Cartas do "Xô Dengue"
+# Cartas do Xô Dengue
 
 O "Xô Dengue" originalmente possui 44 cartas, sendo 32 cartas-problema e 12
 cartas-curiosidade sobre a Dengue. As cartas-problema são utilizadas para
