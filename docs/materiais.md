@@ -22,12 +22,8 @@ Alternativamente, você pode imprimir e recortar a fim de criar seus próprios
 dados:
 {: .fs-3 }
 
-<center>
-
 ![Dados para imprimir](/imgs/dados.png)
 {: .fs-3 }
-
-</center>
 
 ## Pinos
 

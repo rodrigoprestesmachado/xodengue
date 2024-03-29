@@ -25,7 +25,7 @@ e poder público).
 - 4 pinos representando os jogadores:
 {: .fs-3 }
   - Amarelo: crianças.
-    {: .fs-3 }
+  {: .fs-3 }
   - Azul: moradores da área urbana.
   {: .fs-3 }
   - Laranja: moradores da área rural.
@@ -68,14 +68,14 @@ e poder público).
 
 - Crianças: não podem resolver problemas no terreno baldio ou problemas que
   envolvam uso de cloro e tratamento de esgotos.
-  {: .fs-3 }
+{: .fs-3 }
 - Poder Público: não pode resolver problemas internos de propriedades
   particulares.
-  {: .fs-3 }
+{: .fs-3 }
 - Atribuições exclusivas do Poder Público: resolver problemas que envolvam
   aplicação de inseticida (fumacê), atendimento médico, destinação de resíduos
   do setor, ações de poda e instalação de lixeiras na praça.
-  {: .fs-3 }
+{: .fs-3 }
 
 ---
   NOTA: As atribuições e limitações estão indicadas nas cartas-problema.
