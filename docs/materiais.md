@@ -4,7 +4,7 @@ title: Materiais
 nav_order: 5
 ---
 
-## Dados e pinos
+# Dados e pinos
 
 Para jogar o Xô Dengue, você precisará de alguns materiais. Abaixo, você pode
 encontrar informações sobre os dados e pinos necessários para jogar o Xô Dengue.

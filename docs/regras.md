@@ -4,7 +4,7 @@ title: Regras
 nav_order: 2
 ---
 
-# Regras do Xô Dengue
+# Regras
 
 O Xô Dengue é um jogo educacional colaborativo de tabuleiro cujo objetivo
 principal é ensinar sobre a importância de combater a proliferação do mosquito

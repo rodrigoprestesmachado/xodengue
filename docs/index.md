@@ -6,14 +6,17 @@ nav_order: 1
 
 # Xô Dengue
 
-O Xô Dengue é um jogo educacional colaborativo de tabuleiro cujo objetivo
-principal é ensinar sobre a importância de combater a proliferação do mosquito
-Aedes aegypti, transmissor da dengue.
+Versão 1.0.0
+{: .label .label-green }
+
+O Xô Dengue é um jogo educacional colaborativo de tabuleiro que visa ensinar
+crianças e adolescentes de maneira divertida sobre o combate ao
+mosquito Aedes aegypti, responsável pela propagação da dengue.
 {: .fs-3 }
 
-O jogo foi desenvolvido por alunos dentro do contexto de uma disciplina do
-Mestrado Profissional em Informática na Educação ([MPIE](https://mpie.poa.ifrs.edu.br))
-do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul
+O jogo foi desenvolvido durante duas disciplinas do  Mestrado Profissional em
+Informática na Educação ([MPIE](https://mpie.poa.ifrs.edu.br)) do Instituto
+Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul
 ([IFRS](https://poa.ifrs.edu.br)) - Campus Porto Alegre.
 {: .fs-3 }
 

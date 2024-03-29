@@ -1,5 +1,5 @@
 # Xô Dengue
 
-O "Xô Dengue" é um jogo educacional colaborativo de tabuleiro cujo objetivo
-principal é ensinar sobre a importância de combater a proliferação do mosquito
-Aedes aegypti, transmissor da dengue.
+O Xô Dengue é um jogo educacional colaborativo de tabuleiro que visa ensinar
+crianças e adolescentes de maneira divertida sobre o combate ao
+mosquito Aedes aegypti, responsável pela propagação da dengue.
