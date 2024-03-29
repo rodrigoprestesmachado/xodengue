@@ -4,9 +4,9 @@ title: Cartas
 nav_order: 4
 ---
 
-# Cartas do Xô Dengue
+# Cartas
 
-O "Xô Dengue" originalmente possui 44 cartas, sendo 32 cartas-problema e 12
+O Xô Dengue originalmente possui 44 cartas, sendo 32 cartas-problema e 12
 cartas-curiosidade sobre a Dengue. As cartas-problema são utilizadas para
 resolver situações relacionados à proliferação do mosquito Aedes aegypti,
 transmissor da Dengue. Por outro lado, as cartas-curiosidade são utilizadas para
@@ -34,3 +34,8 @@ corte.
 
 - [Cartas-problema](/documents/problemas-braille.pdf) versão em braille.
 {: .fs-3 }
+
+## Cartas-curiosidade
+
+Em breve
+{: .label .label-yellow .fs-3 }

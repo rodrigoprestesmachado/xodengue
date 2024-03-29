@@ -6,18 +6,28 @@ nav_order: 5
 
 ## Dados e pinos
 
+Para jogar o Xô Dengue, você precisará de alguns materiais. Abaixo, você pode
+encontrar informações sobre os dados e pinos necessários para jogar o Xô Dengue.
+{: .fs-3 }
+
 ## Dados
 
 Os dados do Xô Dengue são utilizados para resolver as situações das
 cartas-problema. O Xô Dengue deve ser jogado com 4 dados de RPG de
 [doze](https://www.ludeka.com.br/image/cache/data/componentes/D-12/DD_RPG_12%20lados_Vermelho%20Transparente-800x800.jpg)
 lados.
+{: .fs-3 }
 
-Alternativamente, você pode baixar a imagem abaixo e imprimir e recortar a fim
-de criar seus próprios dados.
+Alternativamente, você pode imprimir e recortar a fim de criar seus próprios
+dados:
+{: .fs-3 }
+
+<center>
 
 ![Dados para imprimir](/imgs/dados.png)
 {: .fs-3 }
+
+</center>
 
 ## Pinos
 
@@ -39,9 +49,13 @@ acessibilidade:
 {: .fs-3 }
 
 - Mosquito: [https://free3d.com/3d-model/mosquito-v1--906466.html](https://free3d.com/3d-model/mosquito-v1--906466.html)
+{: .fs-3 }
 - Zona urbana: [https://www.printables.com/model/126793-model-building#preview](https://www.printables.com/model/126793-model-building#preview)
+{: .fs-3 }
 - Zona rural: [https://www.printables.com/model/432606-house](https://www.printables.com/model/432606-house)
+{: .fs-3 }
 - Crianças: [https://www.printables.com/model/228698-success-kid](https://www.printables.com/model/228698-success-kid)
-- Poder público:
-Em breve
-{: .label .label-yellow }
+{: .fs-3 }
+
+- Poder público: Em breve
+{: .label .label-yellow .fs-3 }

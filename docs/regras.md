@@ -6,7 +6,7 @@ nav_order: 2
 
 # Regras do Xô Dengue
 
-O "Xô Dengue" é um jogo educacional colaborativo de tabuleiro cujo objetivo
+O Xô Dengue é um jogo educacional colaborativo de tabuleiro cujo objetivo
 principal é ensinar sobre a importância de combater a proliferação do mosquito
 Aedes aegypti, transmissor da dengue.
 {: .fs-3 }
@@ -46,27 +46,21 @@ e poder público).
 - Monte o tabuleiro em formato retangular, com duas linhas e três colunas.
   (site omitiu que pode ser em qualquer sequência)
   {: .fs-3 }
-
 - Sorteie 3 cartas-problema e coloque-as nos locais correspondentes, de acordo
   com as cores indicadas.
   {: .fs-3 }
-
 - Determine a ordem de jogada com base no valor obtido nos dados, em ordem
   decrescente.
   {: .fs-3 }
-
 - O jogador que tirar o maior número no dado começa o jogo.
   {: .fs-3 }
-
 - Os jogadores escolhem seus personagens (criança, poder público, morador da
   área urbana ou morador da área rural) e colocam suas peças nos locais
   correspondentes. (site omitiu que a prioridade de escolha segue a ordem
   decrescente tirada nos dados)
   {: .fs-3 }
-
 - Os jogadores se movimentam pelos setores da cidade onde há problemas.
   {: .fs-3 }
-
 - O mosquito se movimenta apenas pelas casas externas do tabuleiro.
   {: .fs-3 }
 
@@ -74,8 +68,10 @@ e poder público).
 
 - Crianças: não podem resolver problemas no terreno baldio ou problemas que
   envolvam uso de cloro e tratamento de esgotos.
+  {: .fs-3 }
 - Poder Público: não pode resolver problemas internos de propriedades
   particulares.
+  {: .fs-3 }
 - Atribuições exclusivas do Poder Público: resolver problemas que envolvam
   aplicação de inseticida (fumacê), atendimento médico, destinação de resíduos
   do setor, ações de poda e instalação de lixeiras na praça.
@@ -91,40 +87,32 @@ e poder público).
 
 - Escolha o ponto de partida do mosquito em um dos quatro cantos externos do
   tabuleiro.
-{: .fs-3 }
-
+  {: .fs-3 }
 - Cada jogador joga com 4 dados.
-{: .fs-3 }
-
+  {: .fs-3 }
 - Para resolver problemas, o jogador precisa tirar duas vezes o número
   correspondente à solução do problema.
-{: .fs-3 }
-
+  {: .fs-3 }
 - O dado que mostrar o número correto é retirado para a próxima tentativa.
-{: .fs-3 }
-
+  {: .fs-3 }
 - O jogador tem 5 tentativas para tirar o número correto.
-{: .fs-3 }
-
+  {: .fs-3 }
 - Se não houver problema no local onde o jogador está, ele deve se deslocar para
   um local onde haja um problema a ser resolvido.
-{: .fs-3 }
-
+  {: .fs-3 }
 - O jogador perde um dado para cada setor que precisar se deslocar.
-{: .fs-3 }
-
+  {: .fs-3 }
 - Se houver dois problemas no mesmo local, o problema cujo número sair primeiro
   é resolvido.
-{: .fs-3 }
-
+  {: .fs-3 }
 - Os jogadores podem se movimentar em qualquer direção, inclusive na diagonal,
   entre os setores do tabuleiro.
-{: .fs-3 }
+  {: .fs-3 }
 - Sempre que um problema não for resolvido, o mosquito avança uma casa.
-{: .fs-3 }
+  {: .fs-3 }
 - Quando o mosquito chegar em uma casa de cor cinza, uma nova carta-problema e
   uma carta-curiosidade sobre a Dengue são sorteadas.
-{: .fs-3 }
+  {: .fs-3 }
 
 ## Término do jogo
 
