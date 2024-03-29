@@ -69,19 +69,38 @@ e poder público).
 
 - Escolha o ponto de partida do mosquito em um dos quatro cantos externos do
   tabuleiro.
+  {: .fs-3 }
+
 - Cada jogador joga com 4 dados.
+{: .fs-3 }
 - Para resolver problemas, o jogador precisa tirar duas vezes o número
   correspondente à solução do problema.
+{: .fs-3 }
+
 - O dado que mostrar o número correto é retirado para a próxima tentativa.
+{: .fs-3 }
+
 - O jogador tem 5 tentativas para tirar o número correto.
+{: .fs-3 }
+
 - Se não houver problema no local onde o jogador está, ele deve se deslocar para
   um local onde haja um problema a ser resolvido.
+{: .fs-3 }
+
 - O jogador perde um dado para cada setor que precisar se deslocar.
+{: .fs-3 }
+
 - Se houver dois problemas no mesmo local, o problema cujo número sair primeiro
   é resolvido.
+{: .fs-3 }
+
 - Os jogadores podem se movimentar em qualquer direção, inclusive na diagonal,
   entre os setores do tabuleiro.
+{: .fs-3 }
+
 - Sempre que um problema não for resolvido, o mosquito avança uma casa.
+{: .fs-3 }
+
 - Quando o mosquito chegar em uma casa de cor cinza, uma nova carta-problema e
   uma carta-curiosidade sobre a Dengue são sorteadas.
   {: .fs-3 }
@@ -89,7 +108,10 @@ e poder público).
 ## Término do jogo
 
 O jogo termina em duas situações:
+{: .fs-3 }
 
 - Quando todos os problemas do tabuleiro forem resolvidos.
+{: .fs-3 }
+
 - Quando o mosquito completar uma volta no tabuleiro (o mosquito é o vencedor).
   {: .fs-3 }

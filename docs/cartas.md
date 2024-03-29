@@ -30,5 +30,7 @@ corte.
 {: .fs-3 }
 
 - [Cartas-problema](/documents/problemas.pdf).
-- [Cartas-problema](/documents/problemas.pdf) versão em braille.
+{: .fs-3 }
+
+- [Cartas-problema](/documents/problemas-braille.pdf) versão em braille.
 {: .fs-3 }

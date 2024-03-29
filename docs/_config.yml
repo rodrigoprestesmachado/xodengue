@@ -1,7 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
-aux_links:
-  "Xô Dengue":
-    - "https://xodengue.rpmhub.dev"
 
 logo: "/imgs/logo.png"
 
