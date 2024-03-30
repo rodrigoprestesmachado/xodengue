@@ -27,7 +27,7 @@ e poder público.
 
 - 1 pino representando o mosquito.
 - 32 [cartas-problemas](cartas.md).
-- 12 [cartas-curiosidade](cartas.md) sobre a Dengue.
+- 12 [cartas-curiosidades](cartas.md) sobre a Dengue.
 - 4 [dados](materiais.md) de doze faces.
 
 ## Preparação do jogo
@@ -57,8 +57,7 @@ e poder público.
   do setor, ações de poda e instalação de lixeiras na praça.
 
 ---
-  NOTA: As atribuições e limitações estão indicadas nas cartas-problemas.
-
+  Dica: As limitações e obrigações estão indicadas nas cartas-problemas.
 
 ---
 
@@ -81,7 +80,6 @@ e poder público.
 - Sempre que um problema não for resolvido, o mosquito avança uma casa.
 - Quando o mosquito chegar em uma casa de cor cinza, uma nova carta-problema e
   uma carta-curiosidade sobre a Dengue são sorteadas.
-
 
 ## Término do jogo
 
