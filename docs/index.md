@@ -22,7 +22,9 @@ Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul
 ## Como obter o jogo?
 
 O Xô Dengue é um jogo de tabuleiro gratuito para que qualquer pessoa possa
-imprimir, recortar e jogar. Para jogar, tabuleiro, cartas, dados e pinos.
+imprimir, recortar e jogar. O jogo é compo por um tabuleiro, dois baralhos de
+quatro dados de 12 lados e pinos que representam os jogadores e o mosquito da
+dengue.
 
 O [tabuleiro](tabuleiro.md) é composto por seis partes, cada uma representando
 um setor da cidade.As imagens do tabuleiro podem ser impressas e recortadas em

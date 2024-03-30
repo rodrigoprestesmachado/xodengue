@@ -15,19 +15,19 @@ cidade.
 
 ## Componentes do jogo
 
-- [Tabuleiro](tabuleiro.md) com 6 partes: escola, praça, terreno baldio, área urbana, área rural
-e poder público.
+- [Tabuleiro](tabuleiro.md) com seis partes: escola, praça, terreno baldio,
+  área urbana, área rural e poder público.
 
-- 4 [pinos](materiais.md) representando os jogadores:
+- Quatro [pinos](materiais.md) representando os jogadores:
   - Amarelo: crianças.
   - Azul: moradores da área urbana.
   - Laranja: moradores da área rural.
   - Vermelho: poder público.
 
-- 1 pino representando o mosquito.
+- Um pino representando o mosquito.
 - 32 [cartas-problemas](cartas.md).
 - 12 [cartas-curiosidades](cartas.md) sobre a Dengue.
-- 4 [dados](materiais.md) de doze faces.
+- Quadro [dados](materiais.md) de 12 faces.
 
 ## Preparação do jogo
 
@@ -65,13 +65,13 @@ e poder público.
 - Escolha o ponto de partida do mosquito em um dos quatro cantos externos do
   tabuleiro.
 - Cada jogador joga com 4 dados.
-- Para resolver problemas, o jogador precisa tirar duas vezes o número
+- Para resolver problemas, o jogador precisa tirar **duas** vezes o número
   correspondente à solução do problema.
 - O dado que mostrar o número correto é retirado para a próxima tentativa.
-- O jogador tem 5 tentativas para tirar o número correto.
+- O jogador tem **cinco (5) tentativas** para tirar o número correto.
 - Se não houver problema no local onde o jogador está, ele deve se deslocar para
   um local onde haja um problema a ser resolvido.
-- O jogador perde um dado para cada setor que precisar se deslocar.
+- O jogador perde um dado no descolamento de cada setor que precisar se deslocar.
 - Se houver dois problemas no mesmo local, o problema cujo número sair primeiro
   é resolvido.
 - Os jogadores podem se movimentar em qualquer direção, inclusive na diagonal,
@@ -79,10 +79,12 @@ e poder público.
 - Sempre que um problema não for resolvido, o mosquito avança uma casa.
 - Quando o mosquito chegar em uma casa de cor cinza, uma nova carta-problema e
   uma carta-curiosidade sobre a Dengue são sorteadas.
+- A carta-curiosidade deve ser lida em voz alta para todos os jogadores.
 
 ## Término do jogo
 
 O jogo termina em duas situações:
 
 - Quando todos os problemas do tabuleiro forem resolvidos.
-- Quando o mosquito completar uma volta no tabuleiro (o mosquito é o vencedor).
+- Quando o mosquito completar uma volta no tabuleiro, neste caso, o o mosquito
+  infectou toda a cidade e, portanto, é o vencedor.
