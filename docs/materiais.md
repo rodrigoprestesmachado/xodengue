@@ -13,7 +13,7 @@ encontrar informações sobre os dados e pinos necessários para jogar o Xô Den
 ## Dados
 
 Os dados do Xô Dengue são utilizados para resolver as situações das
-cartas-problema. O Xô Dengue deve ser jogado com 4 dados de RPG de
+cartas-problemas. O Xô Dengue deve ser jogado com 4 dados de RPG de
 [doze](https://www.ludeka.com.br/image/cache/data/componentes/D-12/DD_RPG_12%20lados_Vermelho%20Transparente-800x800.jpg)
 lados.
 {: .fs-3 }
@@ -35,8 +35,7 @@ pino de uma cor diferente das demais.
 {: .fs-3 }
 
 Alternativamente, você pode utilizar tampinhas de garrafa PET para representar
-os pinos. Basta pintar as tampinhas com as cores correspondentes aos jogadores
-e ao mosquito da Dengue.
+os pinos.
 {: .fs-3 }
 
 Entretanto, se você tiver acesso a uma impressora 3D, você pode baixar os
