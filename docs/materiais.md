@@ -7,7 +7,7 @@ nav_order: 5
 # Dados e pinos
 
 Para jogar o Xô Dengue, você precisará de alguns materiais. Abaixo, você pode
-encontrar informações sobre os dados e pinos necessários para jogar o Xô Dengue.
+encontrar informações sobre os dados e pinos necessários.
 {: .fs-3 }
 
 ## Dados
@@ -31,16 +31,13 @@ Para jogar o Xô Dengue, você precisará de 5 [pinos](https://www.ludeka.com.br
 os jogadores e 1 representando o mosquito da Dengue. Os pinos dos jogadores são:
 amarelo (crianças), azul (moradores da área urbana), laranja (moradores da área
 rural) e vermelho (poder público). O mosquito da Dengue é representado por um
-pino de uma cor diferente das demais.
+pino de uma cor diferente das demais. Alternativamente, você poderá utilizar
+tampinhas de garrafa PET para representar os pinos.
 {: .fs-3 }
 
-Alternativamente, você pode utilizar tampinhas de garrafa PET para representar
-os pinos.
-{: .fs-3 }
-
-Entretanto, se você tiver acesso a uma impressora 3D, você pode baixar os
-arquivos abaixo e imprimir os pinos em 3D o que pode auxiliar em questões de
-acessibilidade:
+Como sugestão de acessibilidade, você poderá baixar e imprimir os modelos
+3D que poderão dar um significado tátil para os pinos dos jogadores e do
+mosquito da Dengue:
 {: .fs-3 }
 
 - Mosquito: [https://free3d.com/3d-model/mosquito-v1--906466.html](https://free3d.com/3d-model/mosquito-v1--906466.html)
