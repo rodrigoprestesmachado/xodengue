@@ -26,27 +26,27 @@ Para imprimir as imagens do tabuleiro, faça um _download_ das imagens abaixo:
 ![Escola](/imgs/escola.png)
 {: .fs-3 }
 
+## Zona urbana
+
+![Urbana](/imgs/urbana.png)
+{: .fs-3 }
+
+## Zona rural
+
+![Rural](/imgs/rural.png)
+{: .fs-3 }
+
 ## Praça
 
 ![Praça](/imgs/praca.png)
 {: .fs-3 }
 
-## Terreno baldio
-
-![Terreno](/imgs/terreno.png)
-{: .fs-3 }
-
-## Área urbana
-
-![Urbana](/imgs/urbana.png)
-{: .fs-3 }
-
-## Área rural
-
-![Rural](/imgs/rural.png)
-{: .fs-3 }
-
 ## Poder público
 
 ![Poder Público](/imgs/publico.png)
+{: .fs-3 }
+
+## Terreno baldio
+
+![Terreno](/imgs/terreno.png)
 {: .fs-3 }
