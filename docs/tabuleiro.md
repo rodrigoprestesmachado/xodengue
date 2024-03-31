@@ -13,14 +13,12 @@ apresentada aqui, ou seja, em cada partida o tabuleiro pode ter uma configuraç�
 diferente. O tabuleiro também foi projetado para ser colorido de acordo com a
 criatividade dos jogadores. As imagens do tabuleiro podem ser impressas em
 folhas A4 e montadas em formato retangular, com duas linhas e três colunas.
-{: .fs-3 }
-
 As partes do tabuleiro são: escola, praça, terreno baldio, área urbana, área
 rural e poder público. Cada parte do tabuleiro tem um papel importante no jogo,
 representando diferentes áreas da cidade e suas particularidades.
 {: .fs-3 }
 
-Para imprimir as imagens do tabuleiro, faça um download das imagens abaixo:
+Para imprimir as imagens do tabuleiro, faça um _download_ das imagens abaixo:
 {: .fs-3 }
 
 ## Escola

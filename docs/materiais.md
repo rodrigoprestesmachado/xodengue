@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Materiais
+title: Dados e pinos
 nav_order: 5
 ---
 
