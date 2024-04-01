@@ -11,6 +11,23 @@ nav_order: 10
 
 ## Sobre os autores
 
+Beatriz Regina Pedrotti Fabião - Graduada em Gestão Ambiental, Esp. em Química
+Ambiental e Mestre em Engenharia e Ciências Ambientais (IFSul-Pelotas).
+Professora substituta no IFSul- Pelotas (2013-2015), IFRS-Viamão (2019-2020) e
+IFRS-POA (2024..). Aluna especial no Mestrado Profissional em Informática na
+Educação do IFRS-POA. Áreas de interesse: meio ambiente e educação.
+{: .fs-2 }
+
+Elenir Aguiar Bassan - Graduada em Pedagogia (UNISINOS). Especialista: em
+Atendimento Educacional Especializado pela Universidade La Salle (UNILASALLE),
+em Educação Especial e Inclusiva pela Faculdade de Educação São Luís e em
+Educação Infantil pela Universidade Positivo. MBA em Gestão de Recursos
+Humanos(UNISINOS). Mestrado Profissional em Informática na Educação,
+em andamento, pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio
+Grande do Sul (IFRS - Campus Porto Alegre).  Professora de Educação Básica pela
+rede municipal de ensino de Canoas.
+{: .fs-2 }
+
 [Rodrigo Prestes Machado](https://rpmhub.dev) - Bacharel em Ciência
 da Computação ([UCPel](https://ucpel.edu.br)), Mestre em Informática
 ([PUC-Rio](https://www.puc-rio.br)), Doutor em Informática da Educação
@@ -18,6 +35,6 @@ da Computação ([UCPel](https://ucpel.edu.br)), Mestre em Informática
 Profissional em Informática na Educação ([MPIE](https://mpie.poa.ifrs.edu.br))
 do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul
 ([IFRS](https://poa.ifrs.edu.br)) - Campus Porto Alegre.
-{: .fs-3 }
+{: .fs-2 }
 
 
