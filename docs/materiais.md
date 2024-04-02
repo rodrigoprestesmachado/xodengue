@@ -8,21 +8,21 @@ nav_order: 5
 
 Para jogar o Xô Dengue, você precisará de alguns materiais. Abaixo, você pode
 encontrar informações sobre os dados e pinos necessários.
-{: .fs-3 }
+{: .fs-2 }
 
 ## Dados
 
 Os dados do Xô Dengue são utilizados para resolver as situações presentes nas
 cartas-problema. O Xô Dengue deve ser jogado com 4 dados de
 RPG (_Role-playing game_) de [doze](https://www.ludeka.com.br/image/cache/data/componentes/D-12/DD_RPG_12%20lados_Vermelho%20Transparente-800x800.jpg) lados.
-{: .fs-3 }
+{: .fs-2 }
 
 Alternativamente, você pode imprimir e recortar a fim de criar seus próprios
 dados:
-{: .fs-3 }
+{: .fs-2 }
 
 ![Dados para imprimir](/imgs/dados.png)
-{: .fs-3 }
+{: .fs-2 }
 
 ## Pinos
 
@@ -32,21 +32,21 @@ amarelo (crianças), azul (moradores da área urbana), laranja (moradores da ár
 rural) e vermelho (poder público). O mosquito da Dengue é representado por um
 pino de uma cor diferente das demais. Alternativamente, você poderá utilizar
 tampinhas de garrafa PET para representar os pinos.
-{: .fs-3 }
+{: .fs-2 }
 
 Como sugestão de acessibilidade, você poderá baixar e imprimir os modelos
 3D que poderão dar um significado tátil para os pinos dos jogadores e do
 mosquito da Dengue:
-{: .fs-3 }
+{: .fs-2 }
 
 - Mosquito: [https://free3d.com/3d-model/mosquito-v1--906466.html](https://free3d.com/3d-model/mosquito-v1--906466.html)
-{: .fs-3 }
+{: .fs-2 }
 - Zona urbana: [https://www.printables.com/model/126793-model-building#preview](https://www.printables.com/model/126793-model-building#preview)
-{: .fs-3 }
+{: .fs-2 }
 - Zona rural: [https://www.printables.com/model/432606-house](https://www.printables.com/model/432606-house)
-{: .fs-3 }
+{: .fs-2 }
 - Crianças: [https://www.printables.com/model/228698-success-kid](https://www.printables.com/model/228698-success-kid)
-{: .fs-3 }
+{: .fs-2 }
 
 - Poder público: Em breve
 {: .label .label-yellow .fs-3 }
