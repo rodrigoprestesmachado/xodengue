@@ -34,7 +34,7 @@ Grande do Sul (IFRS - Campus Porto Alegre).  Professora de Educação Básica pe
 rede municipal de ensino de Canoas.
 {: .fs-2 }
 
-Greyce Ramires da Silva -  Graduada em Psicologia (IPA) especialista em:
+* Greyce Ramires da Silva -  Graduada em Psicologia (IPA) especialista em:
 Avaliação Psicológica e Psicologia Diagnóstica (Faculdade Focus) e: Intervenção
 ABA para Autismo (Faculdade Metropolitana). Aluna especial no Mestrado
 Profissional em Informática na Educação do IFRS-POA.
