@@ -12,7 +12,7 @@ mosquito Aedes aegypti, responsável pela propagação da dengue. O objetivo do
 jogo é promover ação colaborativa entre os jogadores, resolvendo problemas
 relacionados à proliferação da Dengue e impedindo que o mosquito avance pela
 cidade.
-{: .fs-2 }
+{: .fs-3 }
 
 ## Componentes do jogo
 
@@ -27,7 +27,7 @@ cidade.
 - 32 [cartas-problema](cartas.md).
 - 12 [cartas-curiosidade](cartas.md) sobre a Dengue.
 - Quatro [dados](materiais.md) de 12 faces.
-{: .fs-2 }
+{: .fs-3 }
 
 ## Preparação do jogo
 
@@ -44,7 +44,7 @@ cidade.
   decrescente tirada nos dados)
 - Os jogadores se movimentam pelos setores da cidade onde há problemas.
 - O mosquito se movimenta apenas pelas casas externas do tabuleiro.
-{: .fs-2 }
+{: .fs-3 }
 
 ## Limitações e obrigações de cada jogador
 
@@ -55,11 +55,11 @@ cidade.
 - Atribuições exclusivas do Poder Público: resolver problemas que envolvam
   aplicação de inseticida (fumacê), atendimento médico, destinação de resíduos
   do setor, ações de poda e instalação de lixeiras na praça.
-{: .fs-2 }
+{: .fs-3 }
 
 ---
   Nota: As limitações e obrigações estão indicadas nas cartas-problema.
-  {: .fs-2 }
+  {: .fs-3 }
 
 ---
 
@@ -83,14 +83,14 @@ cidade.
 - Quando o mosquito chegar em uma casa de cor cinza, uma nova carta-problema e
   uma carta-curiosidade sobre a Dengue são sorteadas.
 - A carta-curiosidade deve ser lida em voz alta para todos os jogadores.
-  {: .fs-2 }
+  {: .fs-3 }
 
 ## Término do jogo
 
 O jogo termina em duas situações:
-{: .fs-2 }
+{: .fs-3 }
 
 - Quando todos os problemas do tabuleiro forem resolvidos.
 - Quando o mosquito completar uma volta no tabuleiro, neste caso, o o mosquito
   infectou toda a cidade e, portanto, é o vencedor.
-  {: .fs-2 }
+  {: .fs-3 }

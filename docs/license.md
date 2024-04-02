@@ -7,7 +7,7 @@ nav_order: 10
 # Licença de uso
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://xodengue.rpmhub.dev">Xô Dengue</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://rpmhub.dev">RPM Hub</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a></p>
-{: .fs-2 }
+{: .fs-3 }
 
 ## Sobre as autoras
 
@@ -16,7 +16,7 @@ Ambiental e Mestre em Engenharia e Ciências Ambientais (IFSul-Pelotas).
 Professora substituta no IFSul- Pelotas (2013-2015), IFRS-Viamão (2019-2020) e
 IFRS-POA (2024..). Aluna especial no Mestrado Profissional em Informática na
 Educação do IFRS-POA. Áreas de interesse: meio ambiente e educação.
-{: .fs-2 }
+{: .fs-3 }
 
 Elenir Aguiar Bassan - Graduada em Pedagogia (UNISINOS). Especialista: em
 Atendimento Educacional Especializado pela Universidade La Salle (UNILASALLE),
@@ -26,7 +26,7 @@ Humanos(UNISINOS). Mestrado Profissional em Informática na Educação,
 em andamento, pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio
 Grande do Sul (IFRS - Campus Porto Alegre).  Professora de Educação Básica pela
 rede municipal de ensino de Canoas.
-{: .fs-2 }
+{: .fs-3 }
 
 ### Orientador
 
@@ -37,4 +37,4 @@ da Computação ([UCPel](https://ucpel.edu.br)), Mestre em Informática
 Profissional em Informática na Educação ([MPIE](https://mpie.poa.ifrs.edu.br))
 do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul
 ([IFRS](https://poa.ifrs.edu.br)) - Campus Porto Alegre.
-{: .fs-2 }
+{: .fs-3 }

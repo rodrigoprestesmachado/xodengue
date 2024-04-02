@@ -16,37 +16,37 @@ folhas A4 e montadas em formato retangular, com duas linhas e três colunas.
 As partes do tabuleiro são: escola, praça, terreno baldio, área urbana, área
 rural e poder público. Cada parte do tabuleiro tem um papel importante no jogo,
 representando diferentes áreas da cidade e suas particularidades.
-{: .fs-2 }
+{: .fs-3 }
 
 Para imprimir as imagens do tabuleiro, faça um _download_ das imagens abaixo:
-{: .fs-2 }
+{: .fs-3 }
 
 ## Escola
 
 ![Escola](/imgs/escola.png)
-{: .fs-2 }
+{: .fs-3 }
 
 ## Zona urbana
 
 ![Urbana](/imgs/urbana.png)
-{: .fs-2 }
+{: .fs-3 }
 
 ## Zona rural
 
 ![Rural](/imgs/rural.png)
-{: .fs-2 }
+{: .fs-3 }
 
 ## Praça
 
 ![Praça](/imgs/praca.png)
-{: .fs-2 }
+{: .fs-3 }
 
 ## Poder público
 
 ![Poder Público](/imgs/publico.png)
-{: .fs-2 }
+{: .fs-3 }
 
 ## Terreno baldio
 
 ![Terreno](/imgs/terreno.png)
-{: .fs-2 }
+{: .fs-3 }
