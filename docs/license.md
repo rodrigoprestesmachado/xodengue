@@ -40,6 +40,15 @@ ABA para Autismo (Faculdade Metropolitana). Aluna especial no Mestrado
 Profissional em Informática na Educação do IFRS-POA.
 {: .fs-2 }
 
+* Luziane da Costa Carvalho – Graduada em Produção Multimídia (Unisenac),
+Especialista em Psicopedagogia e Gestão Escolar (FAEL) e em psicologia
+Educacional (Uniasselvi), Tradutora e Intérprete em Língua Brasileira de
+Sinais (Unilasalle), Mestrado Profissional em Informática na Educação, em
+andamento, pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio
+Grande do Sul (IFRS - Campus Porto Alegre). Professora de Aprendizagem
+Profissional no Senac RS.
+{: .fs-2 }
+
 ### Orientador
 
 [Rodrigo Prestes Machado](https://rpmhub.dev) - Bacharel em Ciência
