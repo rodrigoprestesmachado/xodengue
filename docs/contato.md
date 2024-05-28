@@ -9,6 +9,7 @@ nav_order: 20
 Abaixo estão os contatos da equipe de desenvolvimento do jogo Xô Dengue. Se você
 tiver alguma dúvida, sugestão ou quiser contribuir com o projeto, entre em
 contato conosco.
+{: .fs-2 }
 
 ## Discord
 
@@ -19,9 +20,9 @@ jogo:
 
 <center>
 	<a href="https://discord.gg/kTHnpMMag3">
-		<img src="/imgs/discord.png" alt="Discord logo" width="200">
+		<img src="/imgs/discord.png" alt="Discord logo" width="150">
 	</a>
-<center>
+</center>
 
 ## Xô Dengue no Instagram
 
