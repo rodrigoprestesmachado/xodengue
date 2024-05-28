@@ -24,8 +24,8 @@ jogo:
 	</a>
 </center>
 
-## Xô Dengue no Instagram
+## Instagram
 
-Acompanhe o desenvolvimento do nosso jogo no Instagram:
+Acompanhe o desenvolvimento do nosso jogo também no Instagram:
 [@xodengue.rpmhub.dev](https://www.instagram.com/xodengue.rpmhub.dev/).
 {: .fs-2 }
