@@ -20,7 +20,7 @@ jogo:
 
 <center>
 	<a href="https://discord.gg/kTHnpMMag3">
-		<img src="/imgs/discord.png" alt="Discord logo" width="150">
+		<img src="/imgs/discord.png" alt="Discord logo" width="50">
 	</a>
 </center>
 
