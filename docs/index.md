@@ -53,9 +53,3 @@ representando os jogadores e 1 representando o mosquito da dengue. Os pinos
 também podem ser adquiridos em lojas especializadas. Alternativamente, os pinos
 podem ser substituídos por tampinhas de garrafa PET.
 {: .fs-2 }
-
-## Xô Dengue no Instagram
-
-Acompanhe e fale conosco no Instagram:
-[@xodengue.rpmhub.dev](https://www.instagram.com/xodengue.rpmhub.dev/).
-{: .fs-2 }
